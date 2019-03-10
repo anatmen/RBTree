@@ -1,2 +1,5 @@
 # RBTree
-红黑树实现
+Red Black Tree According to Introduction to Algorithms
+
+# Dependencies
+graphivz(only neccessary if want generate dot file)
